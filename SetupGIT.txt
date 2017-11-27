@@ -1,0 +1,12 @@
+1) Create github repository 
+2) Go to dir (cd C:\Git\) -> (use Git Bash)
+3) git config --global user.name "Japerok"
+4) git config --global user.email jasperpalmaers@gmail.com
+5) git clone (url)
+6) cd in newly created map
+7) create new file/adapt files
+8) git add (name of file)
+9) git commit -m "description" Test.txt
+10) git push -u origin master
+
+
